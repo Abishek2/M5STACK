@@ -7,7 +7,7 @@
   },
   "scripts": {
     "build":"node build",
-    "start":"node App.js",
+    "start":"npm install & node App.js",
     "server":"nodemon App.js"
   }
 }
